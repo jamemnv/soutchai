@@ -1,0 +1,40 @@
+html, body {
+background-color: rgb(172, 171, 228);
+margin: 0;
+padding: 0;
+}
+.top-header {
+    background-color: rgb(2, 2, 20);
+   
+}
+.menu-item{
+   color: rgb(236, 229, 219);
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+}
+.A {
+    background-color: blanchedalmond;
+    padding: 20px;
+    margin: 30px;
+    max-width: 800px;
+    margin: auto;
+}
+.button-footer {
+    color: blanchedalmond;
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+}
+h1 {
+    background-color: chartreuse;
+    padding: 20px;
+    text-align: center;
+}
+.B {
+    background-color: blanchedalmond;
+    padding: 20px;
+    margin: 30px;
+    max-width: 800px;
+    margin: auto;
+}
